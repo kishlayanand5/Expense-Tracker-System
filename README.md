@@ -31,27 +31,32 @@ In this Project, I have used PHP and MySQL database. This is the project which k
 
 
 # Output Screen of the Project:
-Home Page:
-<img width="960" alt="2022-07-21 (6)" src="https://user-images.githubusercontent.com/108524555/180177482-bad1b46e-1984-4200-914b-905d4d064959.png">
-User Signup:
-<img width="938" alt="2022-07-21 (7)" src="https://user-images.githubusercontent.com/108524555/180180089-4364c1de-5ad8-467b-8b24-1369571ac6b0.png">
+>
+![image](https://user-images.githubusercontent.com/84984827/226239636-63b7ddab-94db-4315-b9e4-1eca9adae2ac.png)
+>
+Signup Page:
+>
+![image](https://user-images.githubusercontent.com/84984827/226239871-3b6f96be-93b0-4953-9303-7c694922b4ed.png)
+>
 Login Page:
-<img width="960" alt="2022-09-06" src="https://user-images.githubusercontent.com/108524555/188563703-1256aac4-1a2f-404d-8c57-a66b94d219f7.png">
-User's Dashboard:
-<img width="960" alt="2022-07-21 (1)" src="https://user-images.githubusercontent.com/108524555/180178256-6be5676b-1a3f-4822-93e2-8d5d3cb9f9f8.png">
+>
+![image](https://user-images.githubusercontent.com/84984827/226239936-8e35e618-b45f-40a5-96f1-6ebf9843f591.png)
+>
+User's Dashboard
+>
+![image](https://user-images.githubusercontent.com/84984827/226240050-10089c87-6b8e-4c5f-ac05-e148233c6b3d.png)
+>
 Add Expense:
-<img width="947" alt="2022-09-06 (1)" src="https://user-images.githubusercontent.com/108524555/188564167-601132a1-853f-490b-a0b4-f9e5dea906f0.png">
-User's Expenses:
-<img width="960" alt="2022-07-21" src="https://user-images.githubusercontent.com/108524555/180178645-e596f0ea-5706-4ebd-942d-3a9d9213bb25.png">
-User's Categorywise Report:
-<img width="947" alt="2022-07-21 (5)" src="https://user-images.githubusercontent.com/108524555/180178490-a3a3ceb6-3d54-4e93-95bf-7fcddf46f237.png">
+>
+![image](https://user-images.githubusercontent.com/84984827/226240225-3a8b2cfe-6e59-452d-9e19-b0e418f9d0da.png)
+>
 Admin Dashboard:
-<img width="945" alt="2022-09-06 (2)" src="https://user-images.githubusercontent.com/108524555/188564757-5e34a2df-e39f-4dcb-b52a-0ec0a23ca8af.png">
-Admin Manage Catogories:
-<img width="938" alt="2022-09-06 (3)" src="https://user-images.githubusercontent.com/108524555/188565270-895dd2da-4ed1-448c-b631-9b0e38c5a12f.png">
-Admin Registered Users:
-<img width="952" alt="2022-09-06 (4)" src="https://user-images.githubusercontent.com/108524555/188565713-a53f6994-ca5d-4ed6-abd6-1dfe684da822.png">
-
-
+>
+![image](https://user-images.githubusercontent.com/84984827/226240397-d48178a3-a8d9-4284-8df2-72c5be06d4f7.png)
+>
+Admin Manage Categories:
+>
+![image](https://user-images.githubusercontent.com/84984827/226240477-d088bd62-88c0-470e-b7db-d7b15125e4be.png)
+>
 
 
